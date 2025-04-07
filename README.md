@@ -23,8 +23,8 @@ PasovaCoin (PASO) serves as a utility token that enhances the scalability and ad
 - **Token Name**: PasovaCoin
 - **Symbol**: PASO
 - **Blockchain**: Solana
-- **Total Supply**: 1,000,000,000 PASO
-- **Initial Circulating Supply**: 100,000,000 PASO
+- **Total Supply**: 100,000,000,000 PASO
+- **Initial Circulating Supply**: 1,000,000 PASO
 - **Staking Rewards**: Token holders will earn staking rewards by locking their PASO tokens in supported DeFi protocols.
 - **Utility**: PASO will be used for transaction fees, staking, and governance in future decentralized applications.
 
