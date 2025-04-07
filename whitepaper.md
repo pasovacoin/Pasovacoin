@@ -7,7 +7,7 @@ PasovaCoin aims to create a fair, decentralized, and community-driven token alig
 ## 💰 Tokenomics
 
 - **Name:** PasovaCoin  
-- **Symbol:** PSV  
+- **Symbol:** PASO 
 - **Network:** Solana (SPL Token)  
 - **Total Supply:** 100,000,000 PSV  
 
